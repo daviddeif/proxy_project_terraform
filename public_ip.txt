@@ -1,0 +1,6 @@
+Public EC2 ip: 3.91.153.239
+Public EC2 ip: 44.203.92.190
+Public EC2 ip: 44.212.33.244
+Public EC2 ip: 34.224.97.65
+Public EC2 ip: 54.167.92.116
+Public EC2 ip: 34.205.74.94
